@@ -1,0 +1,4 @@
+skin    communicator  starx     chrome/communicator/
+skin    browser       starx     chrome/browser/
+skin    mozapps       starx     chrome/mozapps/
+skin    global       	starx     chrome/global/
