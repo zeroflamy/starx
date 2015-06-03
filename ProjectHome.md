@@ -1,0 +1,1 @@
+Theme base on Firefox default theme thrata
